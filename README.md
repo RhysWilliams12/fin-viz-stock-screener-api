@@ -13,29 +13,29 @@ FinVizStockApi is an API that can be queried to read stock data from the Finviz 
 
 ### Build (for development)
 
-    To build this repo, from the code open the solution with Visual Studio
+To build this repo, from the code open the solution with Visual Studio
 
-    On the toolbar click on Build->Build Solution
+On the toolbar click on Build->Build Solution
 
-    this will build the project and produce a StockScreenerApi.exe under <repo-folder>\StockScraperApi\bin\Debug\netcoreapp3.1\
+this will build the project and produce a StockScreenerApi.exe under <repo-folder>\StockScraperApi\bin\Debug\netcoreapp3.1\
 
 ### Publish
 
-    To publish this project, open Visual Studio
+To publish this project, open Visual Studio
 
-    On the toolbar click on Build->Publish StockScreenerApi
+On the toolbar click on Build->Publish StockScreenerApi
 
-    Once in the publish window, select the Target as Folder
+Once in the publish window, select the Target as Folder
 
-    Click Next
+Click Next
 
-    Select a Folder location if needed, however you may keep the defaults.
+Select a Folder location if needed, however you may keep the defaults.
 
-    Click Finish
+Click Finish
 
-    Once a Publish configuration has been setup you may click Publish
+Once a Publish configuration has been setup you may click Publish
 
-    This will then publish the app to you selected folder location where it can be run
+This will then publish the app to you selected folder location where it can be run
 
 ## Usage
 
