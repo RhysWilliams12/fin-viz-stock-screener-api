@@ -1,4 +1,3 @@
-![.NET Core](https://github.com/RhysWilliams12/fin-viz-stock-screener-api/workflows/.NET%20Core/badge.svg?branch=master)
 
 # FinVizStockApi
 
